@@ -41,7 +41,7 @@ st.sidebar.write("Risk factors for developing diabetes include being overweight 
 
 # Diabetes Prediction section
 st.sidebar.header("Diabetes Prediction")
-st.sidebar.write("Use the form on the left to input your information and predict your risk of developing diabetes.")
+st.sidebar.write("Use the form on the right to input your information and predict your risk of developing diabetes.")
 
 # Footer
 st.sidebar.markdown("---")
